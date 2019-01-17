@@ -1,0 +1,35 @@
+/**
+ * index.scss
+ * - Add any styles you want here!
+ */
+.form {
+  background-color: #92a8d1;
+  margin: 10px auto;
+  width: 700px;
+  border: 3px solid black;
+  padding: 20px 10px 20px 10px;
+}
+
+h1 {
+  text-align: center;
+}
+
+.title {
+  text-align: center;
+}
+
+.labels {
+  display: inline-block;
+  text-align: right;
+  width: 40%;
+  padding: 5px;
+  vertical-align: top;
+  margin-top: 10px;
+}
+
+.lol {
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
